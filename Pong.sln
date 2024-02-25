@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Pong.csproj", "{DCCEEC46-95FA-41A9-9D18-0C9EB5848926}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DCCEEC46-95FA-41A9-9D18-0C9EB5848926}.Debug.ActiveCfg = Debug|.NET
+		{DCCEEC46-95FA-41A9-9D18-0C9EB5848926}.Debug.Build.0 = Debug|.NET
+		{DCCEEC46-95FA-41A9-9D18-0C9EB5848926}.Release.ActiveCfg = Release|.NET
+		{DCCEEC46-95FA-41A9-9D18-0C9EB5848926}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
